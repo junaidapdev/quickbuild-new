@@ -24,7 +24,7 @@ export default function CTA() {
             Ready to Launch in 48 Hours?
           </h2>
           <p className="text-base sm:text-lg md:text-xl lg:text-2xl text-gray-300 mb-8 sm:mb-12 leading-relaxed max-w-2xl mx-auto px-4">
-            Let's talk today and get your project started. No commitments, just a friendly conversation about your needs.
+            Let&apos;s talk today and get your project started. No commitments, just a friendly conversation about your needs.
           </p>
           <motion.a
             href="#pricing"
